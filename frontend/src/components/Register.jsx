@@ -12,7 +12,7 @@ const Register = ()=>{
     const handleRegister = (e)=>{
         e.preventDefault();
 
-        axios.post('/auth/register', { username, email, password })
+        axios.post('/auth/register', {username, email, password})
             .then(()=> {
                 navigate('/login');
             })

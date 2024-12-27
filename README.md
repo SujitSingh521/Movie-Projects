@@ -60,5 +60,5 @@ Include both **frontend** and **backend** with a **README**.
 - DB Integration (15%) 📊  
 - Bonus (10%): Search, Pagination, Redux.  
 
-**Deadline**: Add your due date here.  
+
 Happy Coding! 🚀  
